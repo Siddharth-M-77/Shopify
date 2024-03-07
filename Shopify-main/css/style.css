@@ -376,6 +376,7 @@ strike {
 
 .parallax-section {
     width: 100%;
+    
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/slider_01.jpg') no-repeat center;
     color: var(--light-color);
     background-size: cover;
